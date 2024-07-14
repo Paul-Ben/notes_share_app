@@ -28,18 +28,18 @@ This is a note sharing web application built using Laravel.
   - `DB_PASSWORD=your_password`
 - run the commands: `composer update` and `composer install`
 - Next run the command: `php artisan migrate`  to run the database migrations 
-- Next , you can seed the database by running this command : `php artisan db:seed`. This will add an admin user and a test user the credentials for both are:
-- - `Admin User Email: admin@email.com`
-    - `Password : password`
-- - `Test User  Email: test@emial.com`
-    - `Password : password`
 - Next run the command: `php artisan serve` to run the server to serve the project.
 - browser url is http://127.0.0.1:8000 to check that the application is running fine.
 - visit http://127.0.0.1:8000/register to register a new account
-- to view the admin panel, change user status in the database to is_admin.
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## Image Views
+
+![Screenshot from 2024-07-13 21-14-41](https://github.com/user-attachments/assets/1cc65ef8-33eb-4e48-8739-c56ceec3e67b)
+![Screenshot from 2024-07-13 21-15-23](https://github.com/user-attachments/assets/3304cb9c-184c-4c49-ae23-ca01b5b87302)
+![Screenshot from 2024-07-13 21-15-41](https://github.com/user-attachments/assets/b1add54a-41b9-4a97-8630-31d6a7b80c2e)
+![Screenshot from 2024-07-13 21-15-54](https://github.com/user-attachments/assets/46e29845-8316-4be6-9715-ffc4af760890)
+![Screenshot from 2024-07-13 21-16-18](https://github.com/user-attachments/assets/791446b0-f1ae-483a-a72e-f82568da9638)
+
 
 ## License
 
